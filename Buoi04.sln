@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThamLam_01", "Buoi04\ThamLam_01.csproj", "{2974E803-A5DB-443B-82B7-037427D3E461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThamLam_02", "ThamLam_02\ThamLam_02.csproj", "{D8140B2E-8192-46FA-9575-11FF6B4283D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2974E803-A5DB-443B-82B7-037427D3E461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2974E803-A5DB-443B-82B7-037427D3E461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2974E803-A5DB-443B-82B7-037427D3E461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2974E803-A5DB-443B-82B7-037427D3E461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8140B2E-8192-46FA-9575-11FF6B4283D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8140B2E-8192-46FA-9575-11FF6B4283D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8140B2E-8192-46FA-9575-11FF6B4283D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8140B2E-8192-46FA-9575-11FF6B4283D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C12D4EA-EB3E-488E-87CB-B74627094469}
+	EndGlobalSection
+EndGlobal

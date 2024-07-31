@@ -1,0 +1,14 @@
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\bin\Debug\net8.0\ThamLam_02.exe
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\bin\Debug\net8.0\ThamLam_02.deps.json
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\bin\Debug\net8.0\ThamLam_02.runtimeconfig.json
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\bin\Debug\net8.0\ThamLam_02.dll
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\bin\Debug\net8.0\ThamLam_02.pdb
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\obj\Debug\net8.0\ThamLam_02.GeneratedMSBuildEditorConfig.editorconfig
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\obj\Debug\net8.0\ThamLam_02.AssemblyInfoInputs.cache
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\obj\Debug\net8.0\ThamLam_02.AssemblyInfo.cs
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\obj\Debug\net8.0\ThamLam_02.csproj.CoreCompileInputs.cache
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\obj\Debug\net8.0\ThamLam_02.dll
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\obj\Debug\net8.0\refint\ThamLam_02.dll
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\obj\Debug\net8.0\ThamLam_02.pdb
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\obj\Debug\net8.0\ThamLam_02.genruntimeconfig.cache
+F:\LeThiHuyenTrang\Buoi04\ThamLam_02\obj\Debug\net8.0\ref\ThamLam_02.dll

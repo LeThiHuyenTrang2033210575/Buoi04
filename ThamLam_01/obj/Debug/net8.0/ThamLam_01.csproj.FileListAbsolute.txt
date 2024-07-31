@@ -1,0 +1,14 @@
+F:\LeThiHuyenTrang\Buoi04\Buoi04\bin\Debug\net8.0\ThamLam_01.exe
+F:\LeThiHuyenTrang\Buoi04\Buoi04\bin\Debug\net8.0\ThamLam_01.deps.json
+F:\LeThiHuyenTrang\Buoi04\Buoi04\bin\Debug\net8.0\ThamLam_01.runtimeconfig.json
+F:\LeThiHuyenTrang\Buoi04\Buoi04\bin\Debug\net8.0\ThamLam_01.dll
+F:\LeThiHuyenTrang\Buoi04\Buoi04\bin\Debug\net8.0\ThamLam_01.pdb
+F:\LeThiHuyenTrang\Buoi04\Buoi04\obj\Debug\net8.0\ThamLam_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\LeThiHuyenTrang\Buoi04\Buoi04\obj\Debug\net8.0\ThamLam_01.AssemblyInfoInputs.cache
+F:\LeThiHuyenTrang\Buoi04\Buoi04\obj\Debug\net8.0\ThamLam_01.AssemblyInfo.cs
+F:\LeThiHuyenTrang\Buoi04\Buoi04\obj\Debug\net8.0\ThamLam_01.csproj.CoreCompileInputs.cache
+F:\LeThiHuyenTrang\Buoi04\Buoi04\obj\Debug\net8.0\ThamLam_01.dll
+F:\LeThiHuyenTrang\Buoi04\Buoi04\obj\Debug\net8.0\refint\ThamLam_01.dll
+F:\LeThiHuyenTrang\Buoi04\Buoi04\obj\Debug\net8.0\ThamLam_01.pdb
+F:\LeThiHuyenTrang\Buoi04\Buoi04\obj\Debug\net8.0\ThamLam_01.genruntimeconfig.cache
+F:\LeThiHuyenTrang\Buoi04\Buoi04\obj\Debug\net8.0\ref\ThamLam_01.dll
